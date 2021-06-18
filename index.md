@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to TiltedAngle's first ever game, Ice and Lava!
 
-You can use the [editor on GitHub](https://github.com/TiltedAngle/IceAndLavaGame/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Ice and Lava is a thrilling game with 15 levels. You must parkour over the lava and make it to the final level. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Download V2 [here!](https://apkadmin.com/qe1h3xlemdn0/IceAndLava_launcher_v2.html.html) (with some minor bug fixes) 
 
-### Markdown
+Download V1 [here!](https://apkadmin.com/xz04xmovym1i/IceAndLava.html.html), Release Date Thurs 17 June 2021
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*_Steps to open game_*
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TiltedAngle/IceAndLavaGame/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. From ApkAdmin, download the game
+2. In your files, search for ' IceAndLava ' 
+3. Double-click on the game which will open a tab called IceAndLava
+4. Click the 'star' icon on the right of your search bar to save the game in your bookmarks

@@ -16,4 +16,4 @@ Download V1 [here!](https://apkadmin.com/xz04xmovym1i/IceAndLava.html.html), Rel
 3. Double-click on the game which will open a tab called IceAndLava
 4. Click the 'star' icon on the right of your search bar to save the game in your bookmarks
 
-PLAY THIS GAME ONLINE! There may be bugs so downloading is the safer option. Play it [here!](https://tiltedangle.github.io/IceAndLava_Web/)
+PLAY THIS GAME ONLINE! There are bugs, and it takes a long time to load, so I would recommend downloading the game. Play it [here](https://tiltedangle.github.io/IceAndLava_Web/)

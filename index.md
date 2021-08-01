@@ -9,7 +9,7 @@ Download V2 [here!](https://apkadmin.com/qe1h3xlemdn0/IceAndLava_launcher_v2.htm
 
 Download V1 [here!](https://apkadmin.com/xz04xmovym1i/IceAndLava.html.html), Release Date Thurs 17 June 2021
 
-*_Steps to open game_*
+# Steps to open game # 
 
 1. From ApkAdmin, download the game
 2. In your files, search for ' IceAndLava ' 
